@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-react-hot-loader",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Babel preset for adding the React Hot Loader preset.",
   "author": "Daniel Dunderfelt <dunderfeltdaniel@gmail.com>",
   "homepage": "https://github.com/gaearon/react-hot-loader",
